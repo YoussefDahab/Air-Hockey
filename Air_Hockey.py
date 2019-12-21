@@ -1,10 +1,7 @@
 
 '''
-CPT
 @ Dahab, Youssef
-@ Dominic, Ryan
 @ 2016 / 06 / 16
-@ ICS3U1
 '''
 """
  Pygame base template for opening a window
